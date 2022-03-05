@@ -1,1 +1,1 @@
-This folder contain lecture code used for practicing and playing around. 
+This folder containslecture code used for practicing and playing around. 
